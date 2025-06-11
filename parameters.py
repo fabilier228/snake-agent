@@ -14,6 +14,6 @@ GREEN = (0, 255, 0)
 
 ACTIONS = [0, 1, 2]
 
-Q_TABLE_FILE = "tables/q_table3.pkl"
-SCORES_FILE = "scores/scores3.txt"
-ASSET_PATH = "assets/training_progress3.png"
+Q_TABLE_FILE = "tables/q_table4.pkl"
+SCORES_FILE = "scores/scores4.txt"
+ASSET_PATH = "assets/training_progress4.png"
